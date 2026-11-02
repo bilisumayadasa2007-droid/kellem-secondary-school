@@ -1,0 +1,6 @@
+{
+  "name": "Kellem Secondary School & Kellem AI",
+  "description": "Kellem Secondary School official portal and Kellem AI learning assistant in Dambi Dollo, Ethiopia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
